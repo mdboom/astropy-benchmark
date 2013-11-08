@@ -1,0 +1,16 @@
+{
+    "pythons": ["2.7", "3.3"],
+
+    "matrix": {
+        "numpy": ["1.7", "1.8"],
+        "Cython": []
+    },
+
+    "repo": "https://github.com/astropy/astropy.git",
+
+    "package": "astropy",
+
+    "project_url": "http://www.astropy.org/",
+
+    "show_commit_url": "http://github.com/astropy/astropy/commit/"
+}
