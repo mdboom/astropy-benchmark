@@ -1,0 +1,20 @@
+{
+    "date": 1374314548, 
+    "githash": "9b2c1b62557a18c318fdfff565ff88d99a82f2ff", 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "2.6 GHz Intel Core i7 (4 cores)", 
+        "machine": "racoon", 
+        "numpy": "1.7", 
+        "os": "Darwin 13.0.0", 
+        "python": "3.3", 
+        "ram": "4.2G"
+    }, 
+    "python": "3.3", 
+    "results": {
+        "test_coordinates.TestLatitude.test_latitude": 4.174849987030029e-05, 
+        "test_units.TestUnit.test_unit_compose": 0.0014968681335449218, 
+        "test_units.TestUnit.test_unit_to": 6.379170417785645e-05
+    }
+}
