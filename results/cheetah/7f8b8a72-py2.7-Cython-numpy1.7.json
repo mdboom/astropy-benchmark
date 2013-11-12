@@ -1,1 +1,20 @@
-{"date": 1381251562, "python": "2.7", "params": {"Cython": null, "python": "2.7", "os": "Linux 3.11.6-200.fc19.x86_64", "ram": "8.2G", "machine": "cheetah", "numpy": "1.7", "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 cores)"}, "results": {"test_coordinates.TestLatitude.test_latitude": 6.15763187408e-05, "test_units.TestUnit.test_unit_compose": 0.00076182103157, "test_units.TestUnit.test_unit_to": 7.50862121582e-05}, "githash": "7f8b8a72c6b8395508531e53e144adaf3a0c9053"}
+{
+    "date": 1381251562000, 
+    "githash": "7f8b8a72c6b8395508531e53e144adaf3a0c9053", 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 cores)", 
+        "machine": "cheetah", 
+        "numpy": "1.7", 
+        "os": "Linux 3.11.6-200.fc19.x86_64", 
+        "python": "2.7", 
+        "ram": "8.2G"
+    }, 
+    "python": "2.7", 
+    "results": {
+        "test_coordinates.TestLatitude.test_latitude": 6.15763187408e-05, 
+        "test_units.TestUnit.test_unit_compose": 0.00076182103157, 
+        "test_units.TestUnit.test_unit_to": 7.50862121582e-05
+    }
+}
