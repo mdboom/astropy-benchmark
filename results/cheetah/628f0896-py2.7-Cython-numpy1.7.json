@@ -1,6 +1,6 @@
 {
+    "commit_hash": "628f08969a8d5a0e1fef35efbc0f9d1e5620a336", 
     "date": 1375975010000, 
-    "githash": "628f08969a8d5a0e1fef35efbc0f9d1e5620a336", 
     "params": {
         "Cython": null, 
         "arch": "x86_64", 
@@ -12,6 +12,10 @@
         "ram": "8.2G"
     }, 
     "python": "2.7", 
+    "requirements": {
+        "Cython": null, 
+        "numpy": "1.7"
+    }, 
     "results": {
         "test_coordinates.TestLatitude.test_latitude": 3.09055805206e-05, 
         "test_units.TestUnit.test_unit_compose": 0.00121162700653, 
