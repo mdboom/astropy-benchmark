@@ -7,7 +7,7 @@
         "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 cores)", 
         "machine": "cheetah", 
         "numpy": "1.8", 
-        "os": "Linux 3.11.6-200.fc19.x86_64", 
+        "os": "Linux 3.11.7-200.fc19.x86_64", 
         "python": "3.3", 
         "ram": "8.2G"
     }, 
@@ -17,8 +17,8 @@
         "numpy": "1.8"
     }, 
     "results": {
-        "test_coordinates.TestLatitude.test_latitude": 7.664172649383545e-05, 
-        "test_units.TestUnit.test_unit_compose": 0.0009209320545196533, 
-        "test_units.TestUnit.test_unit_to": 0.00012263147830963135
+        "test_coordinates.TestLatitude.test_latitude": 7.836902090002696e-05, 
+        "test_units.TestUnit.test_unit_compose": 0.0009266070369994849, 
+        "test_units.TestUnit.test_unit_to": 0.00012265753939991555
     }
 }
