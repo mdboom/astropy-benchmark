@@ -1,0 +1,27 @@
+{
+    "commit_hash": "869f14eba8ca5b5bb0d5dc7dc07fb9ce13423d13", 
+    "date": 1386763336000, 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 cores)", 
+        "machine": "cheetah", 
+        "numpy": "1.7", 
+        "os": "Linux (Fedora 19)", 
+        "python": "3.3", 
+        "ram": "8.2G"
+    }, 
+    "python": "3.3", 
+    "requirements": {
+        "Cython": null, 
+        "numpy": "1.7"
+    }, 
+    "results": {
+        "time_coordinates.time_latitude": 5.878357430337928e-05, 
+        "time_units.TimeUnit.time_unit_compose": 0.0006526070850086398, 
+        "time_units.TimeUnit.time_unit_to": 7.378700789995491e-06, 
+        "time_units.mem_unit": 64.0, 
+        "time_units.time_unit_parse": 0.0004579898379743099
+    }, 
+    "version": 1
+}
