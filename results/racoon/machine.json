@@ -1,8 +1,0 @@
-{
-    "arch": "x86_64", 
-    "cpu": "2.6 GHz Intel Core i7 (4 cores)", 
-    "machine": "racoon", 
-    "os": "Darwin 13.0.0", 
-    "ram": "4.2G", 
-    "version": 1
-}
