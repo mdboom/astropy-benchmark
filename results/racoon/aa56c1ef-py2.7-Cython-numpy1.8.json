@@ -1,0 +1,27 @@
+{
+    "commit_hash": "aa56c1ef2300ddc5a30fd22529fcabbe2e1a11be", 
+    "date": 1380582999000, 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "2.6 GHz Intel Core i7 (4 cores)", 
+        "machine": "racoon", 
+        "numpy": "1.8", 
+        "os": "Darwin 13.0.0", 
+        "python": "2.7", 
+        "ram": "4.2G"
+    }, 
+    "python": "2.7", 
+    "requirements": {
+        "Cython": null, 
+        "numpy": "1.8"
+    }, 
+    "results": {
+        "time_coordinates.time_latitude": 0.000378868103027, 
+        "time_units.TimeUnit.time_unit_compose": 0.00128303790092, 
+        "time_units.TimeUnit.time_unit_to": 6.41196966171e-05, 
+        "time_units.mem_unit": 64.0, 
+        "time_units.time_unit_parse": 0.00034663105011
+    }, 
+    "version": 1
+}
