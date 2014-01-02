@@ -18,10 +18,10 @@
     }, 
     "results": {
         "time_coordinates.time_latitude": null, 
-        "time_units.TimeUnit.time_unit_compose": 0.03251176860067062, 
-        "time_units.TimeUnit.time_unit_to": 7.15876461006701e-05, 
-        "time_units.mem_unit": 64.0, 
-        "time_units.time_unit_parse": 0.011788156679831446
+        "time_units.TimeUnit.time_unit_compose": 0.034716703499998405, 
+        "time_units.TimeUnit.time_unit_to": 7.733017489999838e-05, 
+        "time_units.mem_unit": 8656, 
+        "time_units.time_unit_parse": 0.012591992379998373
     }, 
     "version": 1
 }

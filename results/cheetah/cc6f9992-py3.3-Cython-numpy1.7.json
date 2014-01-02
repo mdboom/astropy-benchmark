@@ -17,11 +17,11 @@
         "numpy": "1.7"
     }, 
     "results": {
-        "time_coordinates.time_latitude": 0.0003400937559781596, 
-        "time_units.TimeUnit.time_unit_compose": 0.0009845016979961657, 
-        "time_units.TimeUnit.time_unit_to": 9.14741818967741e-05, 
-        "time_units.mem_unit": 64.0, 
-        "time_units.time_unit_parse": 0.00044166717201005667
+        "time_coordinates.time_latitude": 0.0003449531719998049, 
+        "time_units.TimeUnit.time_unit_compose": 0.0010219649050000044, 
+        "time_units.TimeUnit.time_unit_to": 9.410346680001566e-05, 
+        "time_units.mem_unit": 9488, 
+        "time_units.time_unit_parse": 0.00046463165000022857
     }, 
     "version": 1
 }

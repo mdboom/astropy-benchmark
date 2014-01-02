@@ -20,7 +20,6 @@
         "time_coordinates.time_latitude": 0.000257098913193, 
         "time_units.TimeUnit.time_unit_compose": 0.000748832941055, 
         "time_units.TimeUnit.time_unit_to": 6.38461828232e-05, 
-        "time_units.mem_unit": 64.0, 
         "time_units.time_unit_parse": 0.00033503818512
     }, 
     "version": 1
